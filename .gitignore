@@ -1,4 +1,6 @@
 wd/*
 !wd/.gitkeep
 
+.vscode/settings.json
+
 deck.html
