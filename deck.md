@@ -176,12 +176,7 @@ ul {
 
 ![bg blur brightness:0.4](./images/stars.jpg)
 
-- montée en compétence
-- partage de connaissances et de bonnes pratiques
-- gain en qualité
-- trucs et astuces
-
-## Inconvénients/Idées reçues
+## Inconvénients
 
 <style scoped>
 ul {
@@ -191,10 +186,6 @@ ul {
 </style>
 
 ![bg blur brightness:0.6](./images/broken%20plate.jpg)
-
-- ~~perte de productivité~~
-- ~~local~~
-- fatigant
 
 ## Merci !
 
