@@ -1,33 +1,9 @@
 ---
 marp: true
-headingDivider: [2]
+headingDivider: []
 theme: uncover
 class:
   - invert
-style: |
-  h2 {
-    font-weight: bold;
-  }
-  section {
-    justify-content: start;
-  }
-  div.twocols {
-    margin-top: 35px;
-    column-count: 2;
-  }
-  div.twocols p:first-child,
-  div.twocols h1:first-child,
-  div.twocols h2:first-child,
-  div.twocols h3:first-child,
-  div.twocols ul:first-child,
-  div.twocols ul li:first-child,
-  div.twocols ul li p:first-child {
-    margin-top: 0 !important;
-  }
-  div.twocols p.break {
-    break-before: column;
-    margin-top: 0;
-  }
 ---
 
 <!-- markdownlint-disable MD001 MD026 MD033 MD045 -->
@@ -37,11 +13,11 @@ style: |
 <!-- https://marpit.marp.app/markdown -->
 <!-- https://mob.sh/ -->
 
-<style scoped>
-  section {
-    justify-content: center;
-  }
+<style>
+    @import url('./deck.css');
 </style>
+
+<div class="flex vertical space-between">
 
 ![width:500px](./images/logo%20mobsh.svg)
 
@@ -49,13 +25,18 @@ style: |
 
 ### La présentation dont vous êtes le héros
 
-&nbsp;
-
 Gwendal Leclerc & Benoît Masson – OVHcloud
+
+</div>
+
+---
+
+<div class="flex vertical space-around">
 
 ## Qui sommes-nous ?
 
-<div class="twocols">
+<div class="horizontal space-around">
+<div class="vertical start">
 
 ### Benoît
 
@@ -63,7 +44,8 @@ Gwendal Leclerc & Benoît Masson – OVHcloud
 
 Team Lead Domaines
 
-<p class="break"></p>
+</div>
+<div class="vertical start">
 
 ### Gwendal
 
@@ -72,138 +54,153 @@ Team Lead Domaines
 Tech Lead Domaines
 
 </div>
+</div>
 
 ![width:300px](./images/logo%20ovhcloud.png)
 
-## Le mob programming, c'est quoi ?
+</div>
+
+---
 
 ![bg brightness:0.5](./images/group.jpg)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<div class="flex vertical space-between">
+
+## Le mob programming, c'est quoi ?
 
 Un peu comme le pair programming, mais à plus que 2…
 
-## Fonctionnement
+</div>
+
+---
 
 ![bg brightness:0.7](./images/helicopter.jpg)
 
-1️⃣ ~~hélico~~ ordinateur
+<div class="flex vertical space-between">
 
-&nbsp;
+## Fonctionnement
+
+1️⃣ ~~hélico~~ ordinateur
 
 ↙️ pilote &emsp;&emsp;&emsp; (copilote ↘️)
 
-&nbsp;
-&nbsp;
-&nbsp;
-
 ⬇️ le reste de la salle ⬇️
 
-## Rotations
+</div>
+
+---
 
 ![bg brightness:0.7](./images/hourglass.jpg)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<div class="flex vertical space-between">
+
+## Rotations
+
+<div class="vertical">
 
 On change les rôles toutes les 5 à 10 min !
 
 ··· → salle → copilote → pilote → salle → ···
 
-## À distance ?
+</div>
+</div>
+
+---
 
 ![bg brightness:0.7](./images/earth.jpg)
 
-&nbsp;
-&nbsp;
-&nbsp;
+## À distance ?
+
+<div class="flex vertical center">
 
 - IDE partagé (LiveShare, …)
 - Partage de code (git, …)
 
-## [`mob.sh`](https://mob.sh)
+</div>
+
+---
 
 ![bg width:70%](https://mob.sh/logo.svg)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<div class="flex vertical space-between">
+
+# [`mob.sh`](https://mob.sh)
 
 Surcouche à git pour gérer la mise en commun du code
 
-## Démo
+</div>
 
-<style scoped>
-h2 {
-  color: #202228;
-}
-</style>
+---
 
 ![bg](./images/laptop.jpg)
 
-## Behind the mob
+<div class="flex vertical center">
 
-<style scoped>
-  section {
-    justify-content: center;
-  }
-</style>
+# Démo
+
+</div>
+
+---
 
 ![bg](./images/cogs.jpg)
 
-## Intérêts
+<div class="flex vertical center">
 
-<style scoped>
-ul {
-  margin: 0;
-  list-style: '+ ';
-}
-</style>
+# Behind the mob
+
+</div>
+
+---
 
 ![bg blur brightness:0.4](./images/stars.jpg)
 
-## Inconvénients
+# Intérêts
 
-<style scoped>
-ul {
-  margin: 0;
-  list-style: '- ';
-}
-</style>
+<div class="pros">
+
+<!--
+- test
+- test2
+-->
+
+</div>
+
+---
 
 ![bg blur brightness:0.6](./images/broken%20plate.jpg)
 
-## Merci !
+# Inconvénients
 
-### Des questions ?
+<div class="cons">
+
+<!--
+- test
+- test2
+-->
+
+</div>
+
+---
+
+<div class="flex vertical center">
+
+# Merci !
+
+</div>
+
+---
 
 ![bg cover](./images/question.jpg)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<div class="flex vertical space-between">
 
-<div style="font-size:50%; text-align:right;">
+# Des questions ?
+
+<div class="footnotes">
 
 Images credits: [unsplash.com](https://unsplash.com)
-
 Slides: [github.com/gwleclerc/mob.sh](https://github.com/gwleclerc/mob.sh/)
+
+</div>
 
 </div>
