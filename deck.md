@@ -31,6 +31,10 @@ Gwendal Leclerc & Benoît Masson – OVHcloud
 
 ---
 
+![bg](./images/sponsors.png)
+
+---
+
 <div class="flex vertical space-around">
 
 ## Qui sommes-nous ?
