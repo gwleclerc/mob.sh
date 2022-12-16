@@ -200,10 +200,21 @@ Surcouche à git pour gérer la mise en commun du code
 
 # Des questions ?
 
+<div class="horizontal space-between bottom-align">
+
+<div>
+
+![width:300px](./images/qr-code-feedbacks.png)
+Feedbacks
+
+</div>
+
 <div class="footnotes">
 
 Images credits: [unsplash.com](https://unsplash.com)
 Slides: [github.com/gwleclerc/mob.sh](https://github.com/gwleclerc/mob.sh/)
+
+</div>
 
 </div>
 

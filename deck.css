@@ -40,6 +40,10 @@ section {
     flex: 1 auto;
 }
 
+.bottom-align {
+  align-items: flex-end;
+}
+
 .pros ul {
   margin: 0;
   list-style: '+ ';
