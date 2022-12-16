@@ -14,8 +14,8 @@ for subrepo in "${USERS[@]}"; do
     git clone "wd/${LOCAL_REPO_DIRECTORY}" "wd/${subrepo}"
     pushd "wd/${subrepo}" >& /dev/null || continue
     git remote add upstream "${GITHUB_REPO_URL}"
-    git config user.name "${subrepo}"
-    git config user.email "${subrepo}@ovhcloud.com"
+    git config --file .gitconfig user.name "${subrepo}"
+    git config --file .gitconfig user.email "${subrepo}@ovhcloud.com"
     popd >& /dev/null || continue
     if [[ -f ".vscode/${subrepo}.json" ]]; then
         mkdir -p "wd/${subrepo}/.vscode"
