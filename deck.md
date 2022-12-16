@@ -162,10 +162,16 @@ Surcouche à git pour gérer la mise en commun du code
 
 <div class="pros">
 
+- montée en compétences
+- émergence des idées
+- amélioration de la qualité
+- idempotence, robustesse de l'outil
+- améliorer la compréhension
+
 <!--
 - test
 - test2
--->
+  -->
 
 </div>
 
@@ -176,6 +182,11 @@ Surcouche à git pour gérer la mise en commun du code
 # Inconvénients
 
 <div class="cons">
+
+- il faut trouver le temps
+- très fatiguant
+- ~~perte de temps~~
+- frustration
 
 <!--
 - test
