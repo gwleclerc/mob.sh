@@ -4,3 +4,5 @@ wd/*
 .vscode/settings.json
 
 deck.html
+
+.DS_Store
