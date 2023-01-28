@@ -31,10 +31,6 @@ Gwendal Leclerc & Benoît Masson – OVHcloud
 
 ---
 
-![bg](./images/sponsors.png)
-
----
-
 <div class="flex vertical space-around">
 
 ## Qui sommes-nous ?
@@ -200,14 +196,7 @@ Surcouche à git pour gérer la mise en commun du code
 
 # Des questions ?
 
-<div class="horizontal space-between bottom-align">
-
-<div>
-
-![width:300px](./images/qr-code-feedbacks.png)
-Feedbacks
-
-</div>
+<div class="horizontal end bottom-align">
 
 <div class="footnotes">
 
