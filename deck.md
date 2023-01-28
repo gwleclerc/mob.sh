@@ -6,7 +6,7 @@ class:
   - invert
 ---
 
-<!-- markdownlint-disable MD001 MD026 MD033 MD045 -->
+<!-- markdownlint-disable MD026 MD033 MD045 -->
 
 <!-- Compile to HTML with `marp -w -s --html true .` -->
 
@@ -17,19 +17,21 @@ class:
     @import url('./deck.css');
 </style>
 
+![bg](./images/background_VTT.png)
+
 <div class="flex vertical space-between">
 
-![width:500px](./images/logo%20mobsh.svg)
+![width:600px](./images/logo%20mobsh.svg)
 
-# `mob.sh`
-
-### La présentation dont vous êtes le héros
+## La présentation dont vous êtes le héros
 
 Gwendal Leclerc & Benoît Masson – OVHcloud
 
 </div>
 
 ---
+
+![bg](./images/background.png)
 
 <div class="flex vertical space-around">
 
@@ -181,6 +183,8 @@ Surcouche à git pour gérer la mise en commun du code
 </div>
 
 ---
+
+![bg](./images/background.png)
 
 <div class="flex vertical center">
 
