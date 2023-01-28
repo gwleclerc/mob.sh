@@ -1,18 +1,18 @@
 /* @theme deck */
 
 h2 {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 section {
-  justify-content: start !important;
-  text-shadow: 5px 5px 10px black;
+    justify-content: start !important;
+    text-shadow: 5px 5px 10px black;
 }
 
 .horizontal {
     display: flex;
     flex-direction: row !important;
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
 }
 
 .vertical {
@@ -36,25 +36,29 @@ section {
     justify-content: center !important;
 }
 
+.end {
+    justify-content: end !important;
+}
+
 .flex {
     flex: 1 auto;
 }
 
 .bottom-align {
-  align-items: flex-end;
+    align-items: flex-end;
 }
 
 .pros ul {
-  margin: 0;
-  list-style: '+ ';
+    margin: 0;
+    list-style: "+ ";
 }
 
 .cons ul {
-  margin: 0;
-  list-style: '- ';
+    margin: 0;
+    list-style: "- ";
 }
 
 .footnotes {
-    font-size:50%;
-    text-align:right;
+    font-size: 50%;
+    text-align: right;
 }
