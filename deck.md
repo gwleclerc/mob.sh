@@ -23,7 +23,9 @@ class:
 
 ![width:600px](./images/logo%20mobsh.svg)
 
-## La présentation dont vous êtes le héros
+<br/>
+
+## A presentation in which you are the hero
 
 Gwendal Leclerc & Benoît Masson – OVHcloud
 
@@ -35,7 +37,7 @@ Gwendal Leclerc & Benoît Masson – OVHcloud
 
 <div class="flex vertical space-around">
 
-## Qui sommes-nous ?
+## Who are we ?
 
 <div class="horizontal space-around">
 <div class="vertical start">
@@ -44,7 +46,7 @@ Gwendal Leclerc & Benoît Masson – OVHcloud
 
 ![](./images/benoit.jpg)
 
-Team Lead Domaines
+Team Lead Domains
 
 </div>
 <div class="vertical start">
@@ -53,7 +55,7 @@ Team Lead Domaines
 
 ![width:200px](./images/gwendal.png)
 
-Tech Lead Domaines
+Tech Lead Domains
 
 </div>
 </div>
@@ -68,9 +70,9 @@ Tech Lead Domaines
 
 <div class="flex vertical space-between">
 
-## Le mob programming, c'est quoi ?
+## What is mob programming?
 
-Un peu comme le pair programming, mais à plus que 2…
+A bit like peer programming, but with more than 2 people...
 
 </div>
 
@@ -80,13 +82,13 @@ Un peu comme le pair programming, mais à plus que 2…
 
 <div class="flex vertical space-between">
 
-## Fonctionnement
+## How does it works?
 
-1️⃣ ~~hélico~~ ordinateur
+1️⃣ ~~helicopter~~ computer
 
 ↙️ pilote &emsp;&emsp;&emsp; (copilote ↘️)
 
-⬇️ le reste de la salle ⬇️
+⬇️ the rest of the room ⬇️
 
 </div>
 
@@ -100,9 +102,9 @@ Un peu comme le pair programming, mais à plus que 2…
 
 <div class="vertical">
 
-On change les rôles toutes les 5 à 10 min !
+The roles are changed every 5 to 10 minutes!
 
-··· → salle → copilote → pilote → salle → ···
+··· → room → copilote → pilote → room → ···
 
 </div>
 </div>
@@ -111,12 +113,12 @@ On change les rôles toutes les 5 à 10 min !
 
 ![bg brightness:0.7](./images/earth.jpg)
 
-## À distance ?
+## Remotely?
 
 <div class="flex vertical center">
 
-- IDE partagé (LiveShare, …)
-- Partage de code (git, …)
+- Shared IDE (LiveShare, …)
+- Code sharing (git, …)
 
 </div>
 
@@ -128,7 +130,7 @@ On change les rôles toutes les 5 à 10 min !
 
 # [`mob.sh`](https://mob.sh)
 
-Surcouche à git pour gérer la mise en commun du code
+An overlay on git to make code sharing easier
 
 </div>
 
@@ -138,7 +140,7 @@ Surcouche à git pour gérer la mise en commun du code
 
 <div class="flex vertical center">
 
-# Démo
+# Demo
 
 </div>
 
@@ -156,7 +158,7 @@ Surcouche à git pour gérer la mise en commun du code
 
 ![bg blur brightness:0.4](./images/stars.jpg)
 
-# Intérêts
+# Benefits
 
 <div class="pros">
 
@@ -171,7 +173,7 @@ Surcouche à git pour gérer la mise en commun du code
 
 ![bg blur brightness:0.6](./images/broken%20plate.jpg)
 
-# Inconvénients
+# Drawbacks
 
 <div class="cons">
 
@@ -188,7 +190,7 @@ Surcouche à git pour gérer la mise en commun du code
 
 <div class="flex vertical center">
 
-# Merci !
+# Thanks !
 
 </div>
 
@@ -198,13 +200,13 @@ Surcouche à git pour gérer la mise en commun du code
 
 <div class="flex vertical space-between">
 
-# Des questions ?
+# Questions ?
 
 <div class="horizontal end bottom-align">
 
 <div class="footnotes">
 
-Images credits: [unsplash.com](https://unsplash.com)
+Image credits: [unsplash.com](https://unsplash.com)
 Slides: [github.com/gwleclerc/mob.sh](https://github.com/gwleclerc/mob.sh/)
 
 </div>
