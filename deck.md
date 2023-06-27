@@ -45,6 +45,11 @@ Gwendal Leclerc & Benoît Masson – OVHcloud
 Team Lead Domaines
 
 </div>
+<div class="vertical center">
+
+![width:200px](./images/breizhassic.png)
+
+</div>
 <div class="vertical start">
 
 ### Gwendal
@@ -75,6 +80,12 @@ Un peu comme le pair programming, mais à plus que 2…
 ---
 
 ![bg brightness:0.7](./images/helicopter.jpg)
+
+<div class="pterodactyl">
+
+![width:150px](./images/pterodactyl.png)
+
+</div>
 
 <div class="flex vertical space-between">
 
@@ -192,6 +203,12 @@ Surcouche à git pour gérer la mise en commun du code
 
 ![bg cover](./images/question.jpg)
 
+<div class="tyrannosaurus">
+
+![width:250px](./images/tyrannosaurus.png)
+
+</div>
+
 <div class="flex vertical space-between">
 
 # Des questions ?
@@ -201,6 +218,7 @@ Surcouche à git pour gérer la mise en commun du code
 <div class="footnotes">
 
 Images credits: [unsplash.com](https://unsplash.com)
+[freepng.fr](https://www.freepng.fr)
 Slides: [github.com/gwleclerc/mob.sh](https://github.com/gwleclerc/mob.sh/)
 
 </div>
