@@ -169,6 +169,14 @@ Surcouche à git pour gérer la mise en commun du code
 
 <div class="pros">
 
+- partage de connaissances, onboarding
+- harmonisation des pratiques
+- plus de réunions
+- reduire la boucle de feedback, accélérer
+- moins de blocages, meilleure réflexion
+- meilleure qualité
+- on produit plus vite
+
 <!--
 - test
 - test2
@@ -184,10 +192,17 @@ Surcouche à git pour gérer la mise en commun du code
 
 <div class="cons">
 
+- necessité de dégager du temps synchrone
+- (velocité)
+- pas efficace si trop de monde
+- applicabilité
+- guerre d'égos
+- fatigue
+
 <!--
 - test
 - test2
--->
+  -->
 
 </div>
 
